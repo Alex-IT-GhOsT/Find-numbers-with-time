@@ -1,0 +1,52 @@
+
+body{
+    background: green;
+}
+
+
+
+.container{
+    color: aliceblue;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.prescription{
+    margin-bottom: 20px;
+}
+
+.prescription1{
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+#parent td{
+    border: 1px solid black;
+    padding: 20px;
+    
+}
+#parent{
+    margin: 0 auto;
+    position: relative;
+}
+
+.active{
+    background: red;
+}
+
+.lev{
+    text-align: center;
+}
+
+.timer{
+    position: absolute;
+   font-size: 20px;
+    right: 10px;
+    top: 10px;
+    
+}
+
+.hide{
+    display: none;
+}
